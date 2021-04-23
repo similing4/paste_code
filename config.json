@@ -1,0 +1,8 @@
+{
+	"weixin_app": {
+		"APPID": "开放平台的APPID",
+		"APPSecret": "开放平台的APP秘钥",
+		"MCHID": "商户号ID",
+		"KEY": "商户号秘钥"
+	}
+}
